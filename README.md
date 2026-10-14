@@ -87,5 +87,5 @@ bash scripts/generate_manifest.sh
 ## Author
 **Ayomide Ajibola**  
 M.S. in Computational Science & Engineering, Kean University  
-- GitHub: [@uravgsk](https://github.com/uravgsk)
-- LinkedIn: [Ayomide Ajibola](https://linkedin.com/in/ayomide-ajibola)
+- GitHub: [@ayomide-ajibola](https://github.com/ayomide-ajibola)
+- LinkedIn: [Ayomide Ajibola](https://www.linkedin.com/in/ayomide-a-70396319b)
